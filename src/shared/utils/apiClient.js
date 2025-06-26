@@ -1,3 +1,5 @@
+//API 클라이언트 설정
+
 import axios from 'axios';
 
 const API_BASE_URL = import.meta.env.VITE_APP_API_URL;
